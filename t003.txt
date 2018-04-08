@@ -1,0 +1,33 @@
+d ./a
+a "cancao"
+e "txt"
+x
++x "Minha terra tem palmeiras,\n"
++x "Onde canta o Sabia;\n"
++x "As aves, que aqui gorjeiam,\n"
++x "Não gorjeiam como la.\n"
++x "Nosso ceu tem mais estrelas,\n"
++x "Nossas varzeas tem mais flores,\n"
++x "Nossos bosques tem mais vida,\n"
++x "Nossa vida mais amores.\n"
++x "Em cismar – sozinho – a noite –\n"
++x "Mais prazer encontro eu la;\n"
++x "Minha terra tem palmeiras,\n"
++x "Onde canta o Sabia.\n"
++x "Minha terra tem primores,\n"
++x "Que tais nao encontro eu ca;\n"
++x "Em cismar – sozinho – a noite –\n"
++x "Mais prazer encontro eu la;\n"
++x "Minha terra tem palmeiras,\n"
++x "Onde canta o Sabia.\n"
++x "Nao permita Deus que eu morra,\n"
++x "Sem que eu volte para la;\n"
++x "Sem que eu desfrute os primores\n"
++x "Que nao encontro por ca;\n"
++x "Sem qu'inda aviste as palmeiras,\n"
++x "Onde canta o Sabia.\n"
+c 1
+w 1 CANCAO DO EXILIO$
+w 1 Goncalves Dias$
+w 1 #x
+f 1

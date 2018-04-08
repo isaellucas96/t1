@@ -1,0 +1,9 @@
++y @3
+a #y
+e "txt"
+y
++z "abcde."
++z **
+c 1
+w 1 #z
+f 1

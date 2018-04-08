@@ -1,0 +1,44 @@
+d ./a/b
++x "a0002-"
++x "i"
+a #x
+e "txt"
+c 3
+w 3 #x
+f 3
++x "i"
+a #x
+e "txt"
+c 1
+w 1 #x
+f 1
++x "i"
+a #x
+e "txt"
+c 3
+w 3 #x
+f 3
++x "i"
+a #x
+e "txt"
+c 2
+w 2 #x
+f 2
++x "i"
+a #x
+e "txt"
+c 4
+w 4 #x
+f 4
++x "i"
+a #x
+e "txt"
+c 5
+w 5 #x
+f 5
++x "ii"
+a #x
+e "txt"
+c 2
+w 2 #x
+f 2

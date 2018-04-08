@@ -1,0 +1,7 @@
+d ./a/b/
+a "a0001"
+e "txt"
+c 1
+w 1 bom dia uel$
+f 1
+

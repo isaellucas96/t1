@@ -1,0 +1,56 @@
+d ./a/
+a "a0003-1"
+e "txt"
++x "Minha terra tem palmeiras,\n"
++x "Onde canta o Sabia;\n"
++x "As aves, que aqui gorjeiam,\n"
++x "Não gorjeiam como la.\n"
++x "Nosso ceu tem mais estrelas,\n"
++x "Nossas varzeas tem mais flores,\n"
++x "Nossos bosques tem mais vida,\n"
++x "Nossa vida mais amores.\n"
++x "Em cismar – sozinho – a noite –\n"
++x "Mais prazer encontro eu la;\n"
++x "Minha terra tem palmeiras,\n"
++x "Onde canta o Sabia.\n"
++x "Minha terra tem primores,\n"
++x "Que tais nao encontro eu ca;\n"
++x "Em cismar – sozinho – a noite –\n"
++x "Mais prazer encontro eu la;\n"
++x "Minha terra tem palmeiras,\n"
++x "Onde canta o Sabia.\n"
++x "Nao permita Deus que eu morra,\n"
++x "Sem que eu volte para la;\n"
++x "Sem que eu desfrute os primores\n"
++x "Que nao encontro por ca;\n"
++x "Sem qu'inda aviste as palmeiras,\n"
++x "Onde canta o Sabia.\n"
+c 2
+w 2 CANCAO DO EXILIO$
+w 2 Goncalves Dias$
+w 2 #x
+f 2
+a "a0003-2"
+c 3
+w 3 CANCAO DO EXILIO (1)$
+w 3 Goncalves Dias$
+w 3 #x
+f 3
+o 4
+w 4 CANCAO DO EXILIO (2)$
+w 4 Goncalves Dias$
+w 4 #x
+f 4
+o 4
+w 4 CANCAO DO EXILIO (3)$
+w 4 Goncalves Dias$
+w 4 #x
+f 4
+o 5
+w 5 CANCAO DO EXILIO (4)$
+w 5 Goncalves Dias$
+w 5 #x
+f 5
+
+
+

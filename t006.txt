@@ -1,0 +1,14 @@
++z "a"
++z *3
+a #z
+d .
+e "txt"
+l 2
+r 2 #x
+r 2 #y
+d #x
+a #y
+c 3
+w 3 #y
+f 2
+f 3
